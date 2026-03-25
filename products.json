@@ -1,0 +1,14 @@
+{
+  "Men": [
+    { "name": "Red T-shirt", "price": 1200, "imageURL": "https://link-to-image" },
+    { "name": "Blue Jeans", "price": 2000, "imageURL": "https://link-to-image" }
+  ],
+  "Women": [
+    { "name": "Blue Dress", "price": 2500, "imageURL": "https://link-to-image" },
+    { "name": "Pink Skirt", "price": 1800, "imageURL": "https://link-to-image" }
+  ],
+  "Cosmetics": [
+    { "name": "Lipstick Pink", "price": 800, "imageURL": "https://link-to-image" },
+    { "name": "Face Cream", "price": 1500, "imageURL": "https://link-to-image" }
+  ]
+}
